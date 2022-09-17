@@ -1,0 +1,26 @@
+.col-11 {
+    background-color: lightgray;
+    margin-top: 3em;
+    margin-bottom: 3em;
+    height: 30vh;
+}
+
+.btn-primary {
+    display: flex;
+    position: relative;
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+    height: 10vh;
+    color: white;
+}
